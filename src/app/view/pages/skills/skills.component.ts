@@ -29,9 +29,9 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
       }
 
       .tech-items {
-        width: 6em;
-        height: 6em;
-        margin: 1.5em 3em;
+        width: 6.5em;
+        height: 6.5em;
+        margin: 1.7em 3em;
         background-color: transparent;
       }
 
