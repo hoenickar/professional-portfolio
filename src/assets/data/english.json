@@ -13,8 +13,7 @@
   "slidetext": "Click to slide",
   "navbar": [
     { "link": "About me", "router": "about" },
-    { "link": "Skills", "router": "skills" },
-    { "link": "Companies", "router": "projects" }
+    { "link": "Skills", "router": "skills" }
   ],
   "about": {
     "experience": "EXPERIENCE",
@@ -128,18 +127,23 @@
   ],
   "techs": [
     {
-      "img": "../../../assets/tech/typescript.png",
-      "title": "TypeScript",
-      "level": "Sí"
-    },
-    {
       "img": "../../../assets/tech/javascript.png",
       "title": "JavaScript",
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/dart.png",
-      "title": "Dart",
+      "img": "../../../assets/tech/typescript.png",
+      "title": "TypeScript",
+      "level": "Sí"
+    },
+    {
+      "img": "../../../assets/tech/c-sharp.svg",
+      "title": "C#",
+      "level": "Si"
+    },
+    {
+      "img": "../../../assets/tech/nodejs.png",
+      "title": "Node.js",
       "level": "Si"
     },
     {
@@ -148,28 +152,23 @@
       "level": "Sí"
     },
     {
-      "img": "../../../assets/tech/nodejs.png",
-      "title": "Node.js",
+      "img": "../../../assets/tech/asp-net-core.png",
+      "title": "ASP.NET Core",
       "level": "Si"
     },
     {
-      "img": "../../../assets/tech/flutter.webp",
-      "title": "Flutter",
-      "level": "Sí"
+      "img": "../../../assets/tech/nginx.png",
+      "title": "Docker",
+      "level": "Si"
     },
     {
-      "img": "../../../assets/tech/ionic.png",
-      "title": "Ionic",
+      "img": "../../../assets/tech/googlecloud.png",
+      "title": "Flutter",
       "level": "Si"
     },
     {
       "img": "../../../assets/tech/azure.png",
       "title": "Azure",
-      "level": "Si"
-    },
-    {
-      "img": "../../../assets/tech/firebase.png",
-      "title": "Firebase",
       "level": "Si"
     }
   ],
